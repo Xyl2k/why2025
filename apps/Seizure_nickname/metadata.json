@@ -1,1 +1,1 @@
-{"name":"Seizure nickname","description":"Dissplay your nicknname and your DECT over a chaotic mosaic\n","categories":["lsd"],"author":"Xylitol","badges":["why2025"],"application":[{"executable":"Seizure_nickname.elf"}]}
+{"git_url":"https://github.com/Xyl2k/why2025/tree/main/src/Seizure_nickname","hidden":false,"name":"Seizure nickname","description":"Renderer for nickname.txt and dect.txt, but oh god what the fuck.","categories":["graphics"],"author":"Xylitol","license_file":"Public Domain","badges":["why2025"],"application":[{"executable":"Seizure_nickname.elf"}]}
