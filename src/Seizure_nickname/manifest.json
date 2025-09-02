@@ -1,0 +1,8 @@
+{
+  "name": "Seizure nickname",
+  "id": "org.why2025.Seizure_nickname",
+  "version": "1.0.0",
+  "binary": "Seizure_nickname.elf",
+  "description": "Renderer for nickname.txt and dect.txt, but oh god what the fuck"
+  "category": "graphics"
+}

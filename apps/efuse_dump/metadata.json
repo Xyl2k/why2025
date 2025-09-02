@@ -1,0 +1,1 @@
+{"name":"eFuse region dumper for WHY CTF CrackMe","description":"Very dirty tool that dumps the efuse region (0x5012D000-DFFF) of the ESP32-P4 to the serial console\n","categories":["diagnostic"],"author":"Xylitol","badges":["why2025"],"application":[{"executable":"efuse_dump.elf"}]}

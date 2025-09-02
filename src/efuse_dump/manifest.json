@@ -1,0 +1,8 @@
+{
+  "name": "eFuse region dumper to solve the WHY CTF CrackMe",
+  "id": "org.why2025.efuse_dump",
+  "version": "1.0.0",
+  "binary": "efuse_dump.elf",
+  "description": "Very dirty tool that dumps the efuse region (0x5012D000-DFFF) of the ESP32-P4 to the serial console",
+  "category": "diagnostic"
+}

@@ -1,0 +1,10 @@
+{
+    "unique_identifier": "efuse_dump",
+    "name": "eFuse region dumper for the WHY CTF CrackMe",
+    "author": "Xylitol",
+    "version": "1",
+    "interpreter": "",
+    "metadata_file": "",
+    "binary_path": "efuse_dump.elf",
+    "source": 1
+}
